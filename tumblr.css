@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+* {
+    font-family: 'Share Tech Mono', monospace;
+    color:#a9b1d6;
+}
+
+.nav-menu ul {
+  display:none;
+}
+            
+.blog-title {
+  margin-left:40%;
+  margin-right:40%;
+  padding-bottom:5px;
+  border-bottom:5px solid #a9b1d6;
+  border-radius:100%;
+}
+            
+.post, .post-footer, .post-content, .clearfix, .link-wrapper {
+  background-color:#1a1b26;
+}
+            
+.post {
+  border:5px solid #a9b1d6;
+  border-radius:10px;
+}
